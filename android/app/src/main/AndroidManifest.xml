@@ -28,7 +28,7 @@
                 <category android:name="android.intent.category.BROWSABLE" />
 
                 <data
-                    android:host="sabzineh.ir"
+                    android:host="yourhost.com"
                     android:pathPrefix="/product"
                     android:scheme="http" />
                 <data android:scheme="https" />
