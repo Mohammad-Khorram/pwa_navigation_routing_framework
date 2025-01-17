@@ -19,7 +19,7 @@ A comprehensive Flutter framework for advanced navigation and routing, optimized
 ### 3. Path, Query, and Body Data Management
 - Handles data passing across screens using:
     - **Path parameters**: Dynamic segments within the URL.
-    - **Query parameters**: Key-value pairs in the URL for additional data.
+    - **Query parameters**: URL key-value pairs for additional data.
     - **Body data**: Encodes and decodes payloads sent between routes.
 - Examples include passing filters, IDs, or forms to specific pages.
 
@@ -73,4 +73,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For questions or suggestions, feel free to reach out at [mr.mohammadkhorram@gmail.com].
+For questions or suggestions, feel free to reach out at [mr.mohammadkhorram@gmail.com]
